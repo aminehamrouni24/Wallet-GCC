@@ -1,0 +1,542 @@
+[
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_change.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_change.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_coin_dash.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_coin_dash.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_emoji_happy.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_emoji_happy.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_onboarding_pic1.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_onboarding_pic1.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.cryptozone.app-main-33:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_close.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_close.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-hdpi_launch_screen.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-hdpi/launch_screen.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_dollor.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_dollor.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_heart.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_heart.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_upload.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_upload.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_transfer2.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_transfer2.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_logowhite.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_logowhite.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.cryptozone.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_trade2.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_trade2.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_logofull.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_logofull.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_get.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_get.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_withdraw.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_withdraw.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_bglight.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_bglight.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_star.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_star.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_wallet2.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_wallet2.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_emoji_wow.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_emoji_wow.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.cryptozone.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_pattern1.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_pattern1.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_coin_doge.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_coin_doge.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_transfer.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_transfer.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_telegram.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_telegram.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_emoji_shock.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_emoji_shock.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_email.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_email.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_mail.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_mail.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_wallet3.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_wallet3.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_blog.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_blog.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_home3.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_home3.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_phone2.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_phone2.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.cryptozone.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_qr.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_qr.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_twitter.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_twitter.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_exchange.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_exchange.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.cryptozone.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_profile.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_profile.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_thumbsup.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_thumbsup.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_edit.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_edit.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_linkedin.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_linkedin.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.cryptozone.app-main-33:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_logodark.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_logodark.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_night.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_night.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_check.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_check.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_trend.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_trend.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_onboarding_pic2.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_onboarding_pic2.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_card2.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_card2.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.cryptozone.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_referral2.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_referral2.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.cryptozone.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_emoji_cry.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_emoji_cry.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_logofullwhite.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_logofullwhite.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_trade.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_trade.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.cryptozone.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_copy.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_copy.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_search.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_search.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_coin_bitcoin.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_coin_bitcoin.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_whatsap.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_whatsap.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_sun.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_sun.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_card.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_card.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_file.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_file.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.cryptozone.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_referral.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_referral.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_collage.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_collage.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_phone.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_phone.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_bgdark.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_bgdark.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_bell.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_bell.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_deposit2.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_deposit2.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_settings.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_settings.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_withdraw2.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_withdraw2.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_card3.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_card3.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_verification.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_verification.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_qrarea.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_qrarea.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_addition.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_addition.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_language.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_language.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_logout.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_logout.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_fb.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_fb.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_coin_ltc.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_coin_ltc.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.cryptozone.app-main-33:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_logo.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_logo.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_home.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_home.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/layout_launch_screen.xml.flat",
+        "source": "com.cryptozone.app-main-33:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_home4.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_home4.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_profile_pic1.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_profile_pic1.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_norecord.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_norecord.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_emoji_smile.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_emoji_smile.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_instagram.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_instagram.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_sun2.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_sun2.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_file2.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_file2.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_clock.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_clock.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.cryptozone.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_coin_btc.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_coin_btc.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-xxhdpi_launch_screen.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-xxhdpi/launch_screen.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-xhdpi_launch_screen.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-xhdpi/launch_screen.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_pay.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_pay.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_closedark.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_closedark.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_phone.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_phone.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_launch_screen.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/launch_screen.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_circledashed.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_circledashed.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_history.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_history.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_bell2.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_bell2.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_banner.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_banner.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_deposit.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_deposit.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_user.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_user.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_chat.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_chat.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_onboarding_pic3.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_onboarding_pic3.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_emoji_sad.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_emoji_sad.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_closecircle.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_closecircle.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.cryptozone.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_support.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_support.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_home2.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_home2.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.cryptozone.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_user.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_user.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_coin_shib.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_coin_shib.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_follower.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_follower.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_qr.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_qr.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_lock.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_lock.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_coin_eth.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_coin_eth.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-xxxhdpi_launch_screen.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-xxxhdpi/launch_screen.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_verified.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_verified.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_trade3.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_trade3.png"
+    },
+    {
+        "merged": "com.cryptozone.app-merged_res-31:/drawable-mdpi_app_assets_images_icons_wallet.png.flat",
+        "source": "com.cryptozone.app-main-33:/drawable-mdpi/app_assets_images_icons_wallet.png"
+    }
+]
